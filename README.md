@@ -28,6 +28,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Finished Up School, Now Time to Build Your Brand](https://medium.com/codex/finished-up-school-now-time-to-build-your-brand-7db1435ef938?source=rss-fb9e664ffb6b------2)
+- [Convert Binary Numbers to String Message](https://medium.com/codex/convert-binary-numbers-to-string-message-322093545634?source=rss-fb9e664ffb6b------2)
+- [Unite Unique Values With JavaScript](https://medium.com/codex/unite-unique-values-with-javascript-466b1e7792c3?source=rss-fb9e664ffb6b------2)
+- [Binary Tree And How to Search and Insert With Recursive Functions](https://medium.com/codex/binary-tree-and-how-to-search-and-insert-with-recursive-functions-91dd69473a5b?source=rss-fb9e664ffb6b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
