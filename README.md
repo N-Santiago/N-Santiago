@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [A Good Samaritan](https://github.com/orgs/Agoodsamaritan/projects/1)
 
-<!-- - 🌱 I’m currently learning **Google Cloud Platform** -->
+- 🌱 I’m currently learning **Google Cloud Platform**
 
 - 👯 I’m looking to collaborate on **anything cool that would make a difference.**
 
